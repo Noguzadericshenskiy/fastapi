@@ -1,2 +1,2 @@
-# fastapi
-fastapi
+# FASTAPI
+Пример работы c fastapi
